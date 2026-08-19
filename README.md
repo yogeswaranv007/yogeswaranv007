@@ -1,234 +1,329 @@
-# Hi 👋, I'm Yogeswaran V
+👋 Hi, I'm Yogeswaran V
 
-### 🚀 Final-Year B.Tech Information Technology Student | Aspiring Software Engineer
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Final-Year+IT+Student;Aspiring+Software+Engineer;Full-Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+%26+Learning+Every+Day" alt="Typing SVG" /> </p>
 
-I'm a **Final-year B.Tech Information Technology student at Bannari Amman Institute of Technology (2023–2027)** passionate about building scalable software, solving problems with **DSA**, and developing full-stack applications.
+<p align="center"> <a href="https://github.com/yogeswaranv007"> <img src="https://img.shields.io/github/followers/yogeswaranv007?label=Followers&style=for-the-badge&logo=github&color=181717" /> </a> <a href="https://github.com/yogeswaranv007?tab=repositories"> <img src="https://img.shields.io/github/stars/yogeswaranv007?style=for-the-badge&logo=github&label=Stars&color=yellow" /> </a> <a href="https://www.linkedin.com/in/yogeswaranv"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> </p>
 
-- 🎓 **B.Tech Information Technology — CGPA: 8.82/10**
-- 💻 Interested in **Software Engineering, Full-Stack Development & Backend Systems**
-- ⚛️ Currently focusing on **React.js** and modern frontend development
-- ☕ Strengthening **Java, OOP, DSA, DBMS & SQL**
-- ⚙️ Building applications with **React, Spring Boot, Node.js, FastAPI & SQL/NoSQL databases**
-- 🏆 **Statathon 2025 — Top 25 Finalist Nationwide** from 5,000+ ideas
-- 🚀 Participated in **HACKSAGON 2025**
-- 🌱 Continuously learning and building real-world projects
-- 🎯 Goal: Grow as a **Software Engineer** and build scalable, production-ready systems
+🚀 About Me
 
----
+<table> <tr> <td width="55%">
 
-## 🛠️ Tech Stack
+🎓 B.Tech Information Technology
+🏫 Bannari Amman Institute of Technology
+📅 2023 – 2027
+📊 CGPA: 8.34 / 10
 
-### Languages
+💻 Aspiring Software Engineer
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+⚛️ Currently focusing on React.js
 
-### Frontend
+☕ Building strong foundations in Java & DSA
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+⚙️ Interested in Full-Stack Development & Backend Systems
 
-### Backend
+🌱 Continuously learning and building real-world applications
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+</td>
 
-### Databases & Cloud
+<td width="45%" align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,react,spring,nodejs,python,js,html,css,tailwind,mysql,mongodb,postgres,aws,azure,git,github&perline=4" />
 
-### Tools
+</td> </tr> </table>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🧰 Technology Stack
+💻 Languages
 
----
+<p> <img src="https://skillicons.dev/icons?i=java,c,js,python" /> </p>
 
-## 🚀 Featured Projects
+⚛️ Frontend
 
-### 📊 AI-Powered Survey Processing System
+<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /> </p>
 
-**React + Vite + Tailwind CSS | Spring Boot | FastAPI | AI/ML**
+⚙️ Backend
 
-A JSON-driven survey platform supporting multiple survey formats with AI-powered translation, semantic processing, and voice capabilities.
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" /> </p>
 
-**Highlights:**
+🗄️ Databases
 
-- JSON-based dynamic survey engine
-- Spring Boot backend architecture
-- FastAPI microservices
-- BGE-M3 embeddings for semantic processing
-- Bhashini & Google Translation integrations
-- Twilio SMS/WhatsApp distribution
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> </p>
 
----
+☁️ Cloud & Dev Tools
 
-### 🔋 Battery Vehicle Booking System
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,postman" /> </p>
 
-**React + Tailwind CSS | Java 21 | Spring Boot | Hibernate/JPA | TiDB**
+🚀 Featured Projects
 
-A full-stack vehicle booking platform migrated from a MERN implementation to a Java-based backend architecture.
+<table> <tr>
 
-**Highlights:**
+<td width="50%" valign="top">
 
-- Java 21 + Spring Boot backend
-- RESTful API architecture
-- Spring Data JPA / Hibernate
-- MySQL-compatible TiDB Cloud database
-- Responsive React frontend
-- Authentication and booking workflows
+📊 AI-Powered Survey Processing System
 
----
+<a href="https://github.com/MOHITH2511/mospi-survey-system/tree/test"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOHITH2511&repo=mospi-survey-system&theme=tokyonight&hide_border=true" /> </a>
 
-### ☁️ Multi-Cloud Usage Tracker
+Stack
 
-**React + Vite | FastAPI | AWS | Azure | Python**
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,spring,python" />
 
-A cloud resource monitoring platform designed to track and analyze usage across multiple cloud providers.
+Key Features
 
-**Highlights:**
+🧩 JSON-based survey engine
+🤖 BGE-M3 semantic processing
+🌐 Bhashini & Google Translation
+🔊 Voice capabilities
+📱 Twilio SMS / WhatsApp
+⚙️ Spring Boot + FastAPI architecture
 
-- AWS & Azure integrations
-- FastAPI backend
-- React dashboard
-- Usage analytics
-- Machine-learning based analysis
-- Pandas, NumPy & Scikit-learn
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🎓 E-Tutor Platform
+🔋 Battery Vehicle Booking System
 
-**React + Vite | Node.js | Express | MongoDB | PostgreSQL**
+<a href="https://github.com/yogeswaranv007/battery_vehicle_booking_app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeswaranv007&repo=battery_vehicle_booking_app&theme=tokyonight&hide_border=true" /> </a>
 
-An online learning platform connecting learners with educational content and services.
+Stack
 
-**Highlights:**
+<img src="https://skillicons.dev/icons?i=react,tailwind,java,spring,mysql" />
 
-- Full-stack web architecture
-- MongoDB & PostgreSQL support
-- REST APIs
-- Payment integration
-- PayPal & Google Pay
-- Responsive React interface
+Key Features
 
----
+🚗 Vehicle booking
+🔐 Authentication
+🔌 REST APIs
+☕ Java 21 + Spring Boot
+🗄️ JPA / Hibernate
+☁️ TiDB Cloud
 
-### 🤖 AI-Driven Course Path Optimizer
+</td>
 
-**React + Vite | Node.js | Express | MongoDB | Groq API**
+</tr>
 
-An AI-powered platform that helps users identify suitable learning paths based on their goals and requirements.
+<tr>
 
-**Highlights:**
+<td width="50%" valign="top">
 
-- AI-powered recommendations
-- Groq API integration
-- MongoDB backend
-- RESTful APIs
-- Interactive React interface
+☁️ Multi-Cloud Usage Tracker
 
----
+<a href="https://github.com/yogeswaranv007/multi-cloud-usage-tracker"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeswaranv007&repo=multi-cloud-usage-tracker&theme=tokyonight&hide_border=true" /> </a>
 
-## 🏆 Achievements & Hackathons
+Stack
 
-- 🥇 **Statathon 2025 — Top 25 Finalist Nationwide**
-  - Selected among **5,000+ ideas**
-  - Ministry of Statistics & Programme Implementation (MoSPI)
+<img src="https://skillicons.dev/icons?i=react,vite,python,aws,azure" />
 
-- 🚀 **HACKSAGON 2025**
-  - Participated in a national-level innovation hackathon
-  - Built and presented a technology-driven solution
+Key Features
 
-- 🏆 **UYIR Road Safety Hackathon 2025**
-  - Developed technology-driven solutions focused on road safety and transportation
+☁️ AWS monitoring
+☁️ Azure monitoring
+📊 Usage analytics
+🤖 ML-based analysis
+🐍 FastAPI backend
+📈 Pandas / NumPy / Scikit-learn
 
-- 🏆 **Morgan Stanley Code to Give Hackathon 2025**
-  - Participated in a competitive software engineering and problem-solving challenge
+</td>
 
-- 💻 **Competitive Programming & DSA**
-  - Regularly solving algorithmic problems and strengthening problem-solving skills
+<td width="50%" valign="top">
 
----
+🎓 E-Tutor Platform
 
-## 📚 Currently Learning
+<a href="https://github.com/yogeswaranv007/e-tutor-platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeswaranv007&repo=e-tutor-platform&theme=tokyonight&hide_border=true" /> </a>
 
-### ⚛️ React.js
+Stack
 
-```text
-React.js
- ├── JSX & Components
- ├── Props & State
- ├── Event Handling
- ├── Conditional Rendering
- ├── Lists & Keys
- ├── Forms
- ├── Hooks
- │   ├── useState
- │   ├── useEffect
- │   ├── useContext
- │   ├── useMemo
- │   ├── useCallback
- │   └── useRef
- ├── Component Lifecycle
- ├── API Integration
- ├── React Router
- ├── State Management
- └── Performance Optimization
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,postgres" />
 
- ☕ Java
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Multithreading
- └── Advanced Java
+Key Features
+
+🎓 Online learning platform
+🔌 REST APIs
+💳 Payment integration
+💰 PayPal
+💳 Google Pay
+🗄️ MongoDB + PostgreSQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🤖 AI Course Path Optimizer
+
+<a href="https://github.com/yogeswaranv007/Ai-driven-course-path-optimizer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yogeswaranv007&repo=Ai-driven-course-path-optimizer&theme=tokyonight&hide_border=true" /> </a>
+
+Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+
+Key Features
+
+🤖 AI-powered recommendations
+🧠 Groq API
+🗺️ Personalized learning paths
+⚡ REST APIs
+🍃 MongoDB
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+🌐 More Projects
+
+<a href="https://github.com/yogeswaranv007?tab=repositories"> <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<br><br>
+
+<a href="https://github.com/yogeswaranv007?tab=repositories"> <img src="https://img.shields.io/badge/View_My_Work-36BCF7?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</td>
+
+</tr> </table>
+
+🏆 Achievements & Hackathons
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🥇_STATATHON_2025-TOP_25_FINALIST-gold?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🚀_HACKSAGON_2025-PARTICIPANT-36BCF7?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏆_UYIR_ROAD_SAFETY_HACKATHON-2025-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🏆_MORGAN_STANLEY_CODE_TO_GIVE-2025-blue?style=for-the-badge" />
+
+</p>
+
+🥇 Statathon 2025
+
+Top 25 Finalist Nationwide
+Selected among 5,000+ ideas under the Ministry of Statistics & Programme Implementation.
+
+🚀 HACKSAGON 2025
+
+Participated in a national-level innovation hackathon and worked on a technology-driven solution.
+
+🏆 UYIR Road Safety Hackathon 2025
+
+Developed technology-driven ideas focused on road safety and transportation.
+
+🏆 Morgan Stanley Code to Give Hackathon 2025
+
+Participated in a competitive software engineering and problem-solving challenge.
+
+📚 Currently Learning
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=600&lines=Learning+React.js+%E2%9A%9B%EF%B8%8F;Building+Better+Frontend+Skills;Strengthening+Java+%E2%98%95;Practicing+DSA+%F0%9F%A7%A0;Growing+as+a+Software+Engineer+%F0%9F%9A%80" /> </p>
+
+⚛️ React.js
+
+<p> <img src="https://skillicons.dev/icons?i=react,javascript,typescript,vite" /> </p>
+
+JSX • Components • Props • State • Hooks • Context API • React Router • API Integration • State Management • Performance Optimization
+
+☕ Java
+
+<p> <img src="https://skillicons.dev/icons?i=java" /> </p>
+
+Core Java • OOP • Collections • Multithreading • Exception Handling • Advanced Java
 
 🧠 Data Structures & Algorithms
-Data Structures & Algorithms
- ├── Arrays & Strings
- ├── Linked Lists
- ├── Stack & Queue
- ├── Trees
- ├── Graphs
- └── Problem Solving
+
+<p align="center"> <img src="https://img.shields.io/badge/Arrays-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Strings-4ECDC4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Linked_List-45B7D1?style=for-the-badge" /> <img src="https://img.shields.io/badge/Stack_&_Queue-96CEB4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Trees-FFEAA7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Graphs-DDA0DD?style=for-the-badge" /> </p>
 
 ⚙️ Backend Development
-Backend Development
- ├── Spring Boot
- ├── REST APIs
- ├── JPA / Hibernate
- ├── Microservices
- └── Database Design
 
-💻 Computer Science Fundamentals
-Computer Science Fundamentals
- ├── DBMS
- ├── SQL
- ├── Operating Systems
- ├── Computer Networks
- └── System Design
-```
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yogeswaranv007&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeswaranv007&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=yogeswaranv007&theme=tokyonight&hide_border=true"/> </p>
-🤝 Connect With Me
-<p align="left"> <a href="https://github.com/yogeswaranv007"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/yogeswaranv"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-💡 Build. Learn. Solve. Repeat.
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" /> </p>
 
-⭐ Feel free to explore my repositories and connect with me!
+Spring Boot • REST APIs • JPA / Hibernate • Microservices • Authentication • Database Design
+
+💻 Computer Science
+
+<p align="center"> <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" /> <img src="https://img.shields.io/badge/OS-555555?style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge" /> <img src="https://img.shields.io/badge/System_Design-6DB33F?style=for-the-badge" /> </p>
+
+📈 GitHub Activity
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeswaranv007&theme=tokyo-night&hide_border=true&area=true" /> </p>
+
+🐍 Contribution Graph
+
+<p align="center"> <img src="https://raw.githubusercontent.com/yogeswaranv007/yogeswaranv007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+
+📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://img.shields.io/github/last-commit/yogeswaranv007/yogeswaranv007?style=for-the-badge&logo=github&label=Last%20Profile%20Update" />
+
+<img src="https://img.shields.io/github/created-at/yogeswaranv007/battery_vehicle_booking_app?style=for-the-badge&logo=github&label=Project%20Created" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/languages/count/yogeswaranv007/battery_vehicle_booking_app?style=for-the-badge&logo=github&label=Languages" />
+
+<img src="https://img.shields.io/github/repo-size/yogeswaranv007/battery_vehicle_booking_app?style=for-the-badge&logo=github&label=Repo%20Size" />
+
+</p>
+
+🎯 My Development Journey
+2023
+ │
+ ├── 🎓 Started B.Tech Information Technology
+ │
+ ▼
+2024
+ │
+ ├── 💻 Full-Stack Development
+ ├── 🌐 React + Node.js
+ └── 🚀 Internship & Projects
+ │
+ ▼
+2025
+ │
+ ├── 🏆 Hackathons
+ ├── 🤖 AI/ML Integrations
+ ├── ☁️ Cloud Projects
+ └── ☕ Java Backend Development
+ │
+ ▼
+2026
+ │
+ ├── ⚛️ React.js
+ ├── ☕ Advanced Java
+ ├── 🧠 DSA
+ ├── ⚙️ Spring Boot
+ └── 🚀 Software Engineering
+ │
+ ▼
+🎯 Future
+ │
+ └── Building scalable production-grade software
+🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/yogeswaranv007"> <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<a href="https://www.linkedin.com/in/yogeswaranv"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Build+%F0%9F%9A%80;Learn+%F0%9F%93%9A;Solve+%F0%9F%A7%A0;Create+%F0%9F%92%BB;Repeat+%F0%9F%94%A5" />
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p> ```
