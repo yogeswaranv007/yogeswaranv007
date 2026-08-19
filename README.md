@@ -239,7 +239,7 @@ An AI-powered platform that helps users identify suitable learning paths based o
 
 <img src="https://img.shields.io/badge/🥇_STATATHON_2025-TOP_25_FINALIST-gold?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/🚀_HACKSAGON_2025-PARTICIPANT-36BCF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_HACKSAGON_2025-FINALIST-36BCF7?style=for-the-badge" />
 
 </p>
 
@@ -257,7 +257,7 @@ An AI-powered platform that helps users identify suitable learning paths based o
 
 ### 🚀 HACKSAGON 2025
 
-Participated in a national-level innovation hackathon and worked on a technology-driven solution.
+**Finalist among 600+ teams** in the HACKSAGON 2025 national-level hackathon, competing with teams across the country and developing a technology-driven solution.
 
 ### 🏆 UYIR Road Safety Hackathon 2025
 
@@ -395,7 +395,7 @@ Participated in a competitive software engineering and problem-solving challenge
 🎯 FUTURE
    │
    └── 🚀 Building scalable production-grade software
-
+```
    🌐 Portfolio
 <p align="center"> <a href="https://yogeswaran-v-portfolio-2005.vercel.app/"> <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p> <p align="center">
 
@@ -408,4 +408,4 @@ Explore my projects, skills, experience, achievements and development journey.
 
 ⭐ Thanks for visiting my profile!
 
-</p> ```
+</p> 
